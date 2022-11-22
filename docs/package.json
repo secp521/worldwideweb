@@ -1,0 +1,19 @@
+{
+  "name": "worldwideweb",
+  "version": "0.0.1",
+  "description": "#hodl #learn #crypto #startup",
+  "main": "index.js",
+  "authors": {
+    "name": "secp521",
+    "email": "me@secp521.dev"
+  },
+  "repository": "worldwideweb/worldwideweb",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
